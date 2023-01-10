@@ -3,14 +3,15 @@
 #  1, -3, 9, -27, 81
 
 
-# n = int(input())
+number = int(input('Введите размер списка '))
+list = []
+sum = 0
+for i in range(number):
+    list_number = int(input(f'Введите число {i+1} '))
+    list.append(list_number)
+    if i % 2 != 0:
+        sum += list[i]
 
-# for i in range(n):
-#     print((-3)**i, end=' ')
 
-n = int(input())
-seq_n = 1
-
-for i in range(n):
-    print(seq_n, end=' ')
-    seq_n*=-3
+print(list)
+print(f'Сумма нечетных чисел равна {sum}')
