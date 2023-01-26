@@ -1,0 +1,10 @@
+26-01-2023 20:24:29 - main - INFO - <module> - Start program
+26-01-2023 20:24:34 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+26-01-2023 20:24:39 - user_interface - INFO - menu_calc - Sum: 21 + 21 = 42
+26-01-2023 20:24:45 - user_interface - INFO - menu_calc - Sum: 32 + 12 = 44
+26-01-2023 20:24:50 - user_interface - WARNING - menu_calc - Main menu, wrong item selected.
+26-01-2023 20:24:51 - user_interface - WARNING - menu_calc - Main menu, wrong item selected.
+26-01-2023 20:24:51 - user_interface - WARNING - menu_calc - Main menu, wrong item selected.
+26-01-2023 20:24:52 - user_interface - WARNING - menu_calc - Main menu, wrong item selected.
+26-01-2023 20:24:53 - user_interface - INFO - menu_calc - Stop calc menu
+26-01-2023 20:24:54 - user_interface - INFO - menu - Stop program.
